@@ -1,0 +1,23 @@
+{
+  "handle": "@soraspi",
+  "duration": 15,
+  "fps": 30,
+  "scenes": [
+    {"start": 0.3, "end": 4.2, "lines": [
+      {"text": "空からのメッセージ", "size": 48, "tracking": 10},
+      {"text": "今日のあなたへ", "size": 96}
+    ]},
+    {"start": 4.6, "end": 11.0, "lines": [
+      {"text": "焦らなくて大丈夫。", "size": 78},
+      {"text": "", "size": 40},
+      {"text": "あなたはあなたのペースで", "size": 62},
+      {"text": "ちゃんと前に進んでいるよ。", "size": 62}
+    ]},
+    {"start": 11.4, "end": 15.0, "lines": [
+      {"text": "この言葉が届いたあなたに", "size": 54},
+      {"text": "いいことが起こりますように", "size": 54},
+      {"text": "", "size": 50},
+      {"text": "保存して何度でも見返してね", "size": 40}
+    ]}
+  ]
+}
